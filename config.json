@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "prefix": "?",
+    "online": "on",
+    "id": "Main",
+    "host": "lava.link",
+    "port": 80,
+    "pass": "youshallnotpass",
+    "IconURL": "https://raw.githubusercontent.com/SudhanPlayz/Discord-MusicBot/master/assets/logo.gif",
+    "SpotifyClientID": "",
+    "SpotifyClientSecret": ""
+}
