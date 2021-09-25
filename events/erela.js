@@ -14,7 +14,6 @@ client.manager = new Manager({
         host: config.host, // Optional if Lavalink is local
         port: config.port, // Optional if Lavalink is set to default
         password: config.pass, // Optional if Lavalink is set to default
-        retryAmount: 100,
 
     }, ],
 
